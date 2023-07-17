@@ -8,6 +8,4 @@
 #### I am open to all help.
 #### Email : bircansezgin@outlook.com.tr
 
-[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/Instagram.svg" aling="left" />][ins]
 
-[ins]: https://www.instagram.com/bircansezginn/
