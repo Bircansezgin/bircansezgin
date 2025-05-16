@@ -2,10 +2,6 @@
 
 Yazılım geliştirme alanında uzmanlaşmış bir Full Stack Developer olarak; mobil, web ve bulut tabanlı sistemler üzerine uçtan uca çözümler geliştiriyorum. Kullanıcı deneyimini ön planda tutan, ölçeklenebilir ve sürdürülebilir yazılım mimarileri oluşturmayı hedefliyorum.
 
-## 📂 Önceki GitHub Hesabım
-
-🔗 [bircansezgindev](https://github.com/bircansezgindev)
-
 ## 🚀 Uzmanlık Alanlarım
 
 - **Frontend Teknolojileri**: React Native, Next.js
