@@ -4,7 +4,7 @@ Yazılım geliştirme alanında uzmanlaşmış bir Full Stack Developer olarak; 
 
 ## 📂 Önceki GitHub Hesabım
 
-🔗 [bircansezgin](https://github.com/bircansezgindev)
+🔗 [bircansezgindev](https://github.com/bircansezgindev)
 
 ## 🚀 Uzmanlık Alanlarım
 
