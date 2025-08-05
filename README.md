@@ -4,10 +4,10 @@ As a Full Stack Developer specialized in software development, I build end-to-en
 
 ## 🚀 Areas of Expertise
 
-- **Frontend Technologies: React Native, Next.js
-- **Backend Technologies: PHP (Laravel), Node.js, XEST API 
-- **Database Systems: MySQL, MongoDB
-- **Cloud & Other Technologies: Firebase, RESTful APIs, Docker, Git, CI/CD pipelines
+- Frontend Technologies: React Native, Next.js
+- Backend Technologies: PHP (Laravel), Node.js, XEST API 
+- Database Systems: MySQL, MongoDB
+- Cloud & Other Technologies: Firebase, RESTful APIs, Docker, Git, CI/CD pipelines
 
 ## 📫 Contact
 
