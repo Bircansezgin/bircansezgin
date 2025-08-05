@@ -1,15 +1,15 @@
-# 👋 Merhaba, ben Bircan Sezgin
+# 👋 Hello, I’m Bircan Sezgin
 
-Yazılım geliştirme alanında uzmanlaşmış bir Full Stack Developer olarak; mobil, web ve bulut tabanlı sistemler üzerine uçtan uca çözümler geliştiriyorum. Kullanıcı deneyimini ön planda tutan, ölçeklenebilir ve sürdürülebilir yazılım mimarileri oluşturmayı hedefliyorum.
+As a Full Stack Developer specialized in software development, I build end-to-end solutions for mobile, web, and cloud-based systems. My goal is to create scalable and sustainable software architectures with a strong focus on user experience.
 
-## 🚀 Uzmanlık Alanlarım
+## 🚀 Areas of Expertise
 
-- **Frontend Teknolojileri**: React Native, Next.js
-- **Backend Teknolojileri**: PHP (Laravel), Node.js
-- **Veritabanı Sistemleri**: MySQL, MongoDB
-- **Bulut ve Diğer Teknolojiler**: Firebase, RESTful API'ler, Docker, Git, CI/CD süreçleri
+- **Frontend Technologies: React Native, Next.js
+- **Backend Technologies: PHP (Laravel), Node.js, XEST API 
+- **Database Systems: MySQL, MongoDB
+- **Cloud & Other Technologies: Firebase, RESTful APIs, Docker, Git, CI/CD pipelines
 
-## 📫 İletişim
+## 📫 Contact
 
-- 📧 E-posta: [work.bircansezgin@gmail.com](mailto:work.bircansezgin@gmail.com)
+- 📧 Email: [work.bircansezgin@gmail.com](mailto:work.bircansezgin@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/bircansezgin](https://linkedin.com/in/bircansezgin)
