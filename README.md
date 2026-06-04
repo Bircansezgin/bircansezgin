@@ -1,4 +1,4 @@
-<a href="https://github.com/bircansezgindev">
+<a href="https://github.com/bircansezgin">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=200&section=header&text=Bircan%20Sezgin&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%2F%20Mobile%20Software%20Developer&descSize=18&descAlignY=58&descColor=8b949e&animation=fadeIn" />
 </a>
 
@@ -10,14 +10,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bircan%20Sezgin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bircansezgin)
 [![Gmail](https://img.shields.io/badge/Email-work.bircansezgin-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.bircansezgin@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-bircansezgindev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bircansezgindev)
-[![Profile Views](https://komarev.com/ghpvc/?username=bircansezgindev&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/bircansezgindev)
+[![GitHub](https://img.shields.io/badge/GitHub-bircansezgin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bircansezgin)
+[![Profile Views](https://komarev.com/ghpvc/?username=bircansezgin&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/bircansezgin)
 
 </div>
 
 ---
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bircansezgindev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=7" />
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bircansezgin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=7" />
 
 ### 👤 About Me
 
@@ -81,15 +81,15 @@ I build software that is technically solid, maintainable, and useful for real us
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bircansezgindev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&count_private=true&rank_icon=github" />
-<img height="180" src="https://streak-stats.demolab.com?user=bircansezgindev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=8b949e&dates=8b949e" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bircansezgin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&count_private=true&rank_icon=github" />
+<img height="180" src="https://streak-stats.demolab.com?user=bircansezgin&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=8b949e&dates=8b949e" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=bircansezgindev&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=bircansezgin&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
@@ -106,6 +106,6 @@ I build software that is technically solid, maintainable, and useful for real us
 
 ---
 
-<a href="https://github.com/bircansezgindev">
+<a href="https://github.com/bircansezgin">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=100&section=footer&text=Reliable+software.+Clean+architecture.+Real+product+value.&fontSize=14&fontColor=8b949e&fontAlignY=65&animation=fadeIn" />
 </a>
